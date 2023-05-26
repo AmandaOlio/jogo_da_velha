@@ -3,10 +3,10 @@ main {
 }
 
 .tabuleiro div input {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     margin: 5px;
-    border: 1px solid gray;
+    border: 1px solid rgb(151, 22, 22);
     border-radius: 6px;
     font-size: 30px;
     cursor: pointer;
