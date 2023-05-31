@@ -15,3 +15,12 @@ main {
 input {
     background-color: pink;
 }
+
+body {
+    background-color: rgb(217, 145, 157);
+}
+
+h1 {
+    font-family: Lucida Console;
+    font-size: 30px;
+}
